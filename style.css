@@ -71,3 +71,9 @@ button:hover {
   font-weight: normal;
   opacity: 0.9;
 }
+
+@media (min-width: 375px) {
+  html {
+    overflow-y: visible;
+  }
+}
