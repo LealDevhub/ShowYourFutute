@@ -1,16 +1,9 @@
 # ShowYourFutute
-Este é um projeto básico de perguntas que o usuário pode fazer e o sistema revelará um resposta à pergunta correspondida.
-link do projeto:  <a href="https://lealdevhub.github.io/ShowYourFutute/" target=_blank>ShowYourFuture</a>
+Este é um projeto básico de perguntas, em que o usuário pode fazer e o sistema revelará um resposta à pergunta correspondida.
+<br></br>
+Link do projeto:  <a href="https://lealdevhub.github.io/ShowYourFutute/" target=_blank>ShowYourFuture</a>
 
-<img align="right" height="590rem" src="https://raw.githubusercontent.com/gist/FPLealhub/b9041e20f84fa21004d41d970a198413/raw/6260b4c06231d4ebae2916cb37a9c77e6712546b/githubcard.svg"/>
-<h1 align="left">Hi <img src"https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"  width="30px" />, i´m Fabricio P. Leal   </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FPLealhub&color=yellow" alt="Profile view" /> </p>
-
-- 👋 Hi, I’m @FPLealhub
-- 👀 I’m interested in enter the field of information technology
-- 🌱 I'm currently learning programming at rocketseat  
-- 💞️ I’m looking to collaborate on backend development
-- 📫 How to reach me: @f.p.leal on instagram
+<img src="https://cdn.discordapp.com/attachments/842816577501659146/1194733659933130803/Design_sem_nome_1.gif?ex=65b16d6d&is=659ef86d&hm=039e386f71b188cdca6464cd041cf5c23e7763bd6f311f6c2b4b2966742c3eaf&"/>
 
 <br></br>
 
